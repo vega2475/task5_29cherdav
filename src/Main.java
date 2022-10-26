@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-
+    //a
     private static int enterHeight() {
         System.out.print("Введите высоту: ");
         Scanner scanner = new Scanner(System.in);
